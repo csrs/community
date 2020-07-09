@@ -11,7 +11,7 @@ To learn more about the project structure and organization, please refer to [Pro
 The [communication](communication/) page lists communication channels like chat,
 issues, mailing lists, conferences, etc.
 
-For more specific topics, try a SIG.
+For more specific topics, try a Special Interest Group (SIG).
 
 ## Governance
 
@@ -74,3 +74,4 @@ contributors/guide/README.md#open-a-pull-request
 [Community Membership]:/community-membership.md
 
 ![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/CONTRIBUTING.md?pixel)
+ 
