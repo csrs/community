@@ -11,7 +11,7 @@ To learn more about the project structure and organization, please refer to [Pro
 The [communication](communication/) page lists communication channels like chat,
 issues, mailing lists, conferences, etc.
 
-For more specific topics, try a SIG.
+For more specific topics, try a special interest group (SIG).
 
 ## Governance
 
